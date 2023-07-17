@@ -1,4 +1,3 @@
-# app_Calculadora-JavaScript--Bootstrap4-CSS3-HTML5
 App calculadora feito durante um curso de JavaScript, Bootstrap4, CSS3, HTML5
 
 Layout
